@@ -15,12 +15,12 @@ A fast and lightweight library built to help with type checking in plain Javascr
 ## Installation
 Local: download the library and include in the `<head>` section of your website. [Link to library](https://tboccinfuso.github.io/checkjs-cdn/lib.js)
 
-With Node: `npm install checkjs`
+With Node: `npm i --save check-your-js`
 
 ## Usage
 If you included locally, you can use the funcations as you normally would with an included script.
 
-With Node: `import * as CheckJS from 'checkjs';`
+With Node: `import * as CheckJS from 'check-your-js';`
 
 ### Usage Integer
 This function is used to check if the passed param is of type Integer. Will throw error if not.

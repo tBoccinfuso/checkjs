@@ -1,6 +1,6 @@
 {
-  "name": "checktypesjs",
-  "version": "1.0.0",
+  "name": "check-your-js",
+  "version": "1.0.1",
   "description": "Checkjs is a library for type checking and more!",
   "main": "lib.js",
   "keywords": ["type", "type checking", "js", "check", "checkjs"],
