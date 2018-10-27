@@ -1,0 +1,10 @@
+{
+  "name": "checkjs",
+  "version": "1.0.0",
+  "description": "Checkjs is a library for type checking and more!",
+  "main": "lib.js",
+  "keywords": ["type", "type checking", "js", "check", "checkjs"],
+  "repository": "tBoccinfuso/checkjs",
+  "author": "Thomas Boccinfuso",
+  "license": "MIT"
+}
