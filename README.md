@@ -12,7 +12,7 @@ A fast and lightweight library built to help with type checking in plain Javascr
   * [Not Empty](#usage-not-empty)
   
 ## Installation
-Local: download the library and include in the `<head>` section of your website.
+Local: download the library and include in the `<head>` section of your website. [Link to library](https://tboccinfuso.github.io/checkjs-cdn/lib.js)
 
 With Node: `npm install checkjs`
 
