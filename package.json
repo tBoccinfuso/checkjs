@@ -1,5 +1,5 @@
 {
-  "name": "checkjs",
+  "name": "checktypesjs",
   "version": "1.0.0",
   "description": "Checkjs is a library for type checking and more!",
   "main": "lib.js",
