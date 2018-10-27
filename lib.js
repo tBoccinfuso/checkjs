@@ -49,6 +49,16 @@ function Object(param){
   }
 }
 
+// Return only objects
+function Boolean(param){
+  var type = typeof param;
+  if(type === "boolean"){
+    return param;
+  } else {
+    console.error(`%c ERROR converting: ${param} (Type of: ${type}) to Boolean.`, errorStyles); 
+  }
+}
+
 // Return only functions
 function Function(param){
   var type = typeof param;

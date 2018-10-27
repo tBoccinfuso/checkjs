@@ -7,6 +7,7 @@ A fast and lightweight library built to help with type checking in plain Javascr
   * [Float](#usage-float)
   * [String](#usage-string)
   * [Object](#usage-object)
+  * [Boolean](#usage-boolean)
   * [Function](#usage-function)
   * [Collection](#usage-collection)
   * [Not Empty](#usage-not-empty)
@@ -49,6 +50,13 @@ This function is used to check if the passed param is of type String. Will throw
 This function is used to check if the passed param is of type Object. Will throw error if not.
 ``` javascript
   Object({"name": "bob"}) // return {"name": "bob"}
+  Object('text') // throw error
+```
+
+### Usage Boolean
+This function is used to check if the passed param is of type Boolean. Will throw error if not.
+``` javascript
+  Object(false) // return false
   Object('text') // throw error
 ```
 
